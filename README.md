@@ -1,9 +1,12 @@
-Clone
-  https://github.com/khanhngt/node_red_app.git
+## Propose:
+Open node red dashboard without browser.
 
-Install Lib
-  npm install
+### 1.Clone
+``https://github.com/khanhngt/node_red_app.git``
 
-Run
-  open file run.vbs
+### 2.Install Lib
+``npm install``
+
+### 3.Run
+``open file run.vbs``
 
